@@ -2,14 +2,7 @@
 
 A collaborative filtering-based movie recommendation system that predicts user ratings and suggests similar movies. Developed as part of an academic project.
 
-🔗 **[Try the Live App Here](https://suggestaria.streamlit.app/)**
-
----
-
-## 👥 Team
-- **Ayush Srivastava (220272)**
-- **Mohd Adil (220658)**
-- **Abhishek Kumar (220045)**
+🔗 **[Try the Live App Here](https://movie-recsys-qwaxbezq5fzrrxfyzv9dft.streamlit.app/)**
 
 ---
 
@@ -80,25 +73,6 @@ Evaluates performance using **Mean Absolute Error (MAE)** on random samples.
 
 ---
 
-## 🚧 Challenges Faced
-
-- Deployment issues with Heroku (credit card verification).
-- Evaluation was time-consuming due to a large pivot matrix.
-- Used **random sampling** of 10,000 user-movie pairs for faster MAE computation.
-- Implemented KNN-based prediction due to initial lack of rating predictions.
-
----
-
-## 🚀 Potential Improvements
-
-- Try **Pearson correlation** or **Matrix Factorization (SVD, ALS)**.
-- Tune number of neighbors (**k**) for predictions.
-- Use **hybrid approaches** (user-based + item-based).
-- Add features like **genres**, **release years**, **user demographics**.
-- Introduce **regularization** to avoid overfitting.
-
----
-
 ## 📸 Screenshots
 
 (Add relevant screenshots of your UI or output here)
@@ -114,7 +88,7 @@ Suggestaria demonstrates a foundational implementation of collaborative filterin
 ## 💻 Deployment
 
 Deployed using **Streamlit**.  
-🔗 **[Access the Web App](https://suggestaria.streamlit.app/)**
+🔗 **[Access the Web App](https://movie-recsys-qwaxbezq5fzrrxfyzv9dft.streamlit.app/)**
 
 ---
 
