@@ -1,6 +1,6 @@
 # 🎬 Suggestaria - Movie Recommendation System
 
-A collaborative filtering-based movie recommendation system that predicts user ratings and suggests similar movies. Developed as part of an academic project.
+A collaborative filtering-based movie recommendation system that predicts user ratings and suggests similar movies.
 
 🔗 **[Try the Live App Here](https://movie-recsys-qwaxbezq5fzrrxfyzv9dft.streamlit.app/)**
 
@@ -75,8 +75,9 @@ Evaluates performance using **Mean Absolute Error (MAE)** on random samples.
 
 ## 📸 Screenshots
 
-(Add relevant screenshots of your UI or output here)
-
+<div align="center">
+  <img src="Screenshots/Screenshot 2025-04-06 215637.png" alt="Prefer Dark Mode Please" width="400"/>
+</div>
 ---
 
 ## 🧾 Conclusion
